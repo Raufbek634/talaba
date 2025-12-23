@@ -1,0 +1,33 @@
+{
+  "users": {
+    "6439945348": {
+      "id": 6439945348,
+      "name": "ㅤㅤㅤTuraqulov Raufbekㅤㅤㅤ",
+      "created": "2025-12-23T09:30:15.175547"
+    }
+  },
+  "apartments": [
+    {
+      "id": 1,
+      "owner": 6439945348,
+      "region": "fg",
+      "district": "Qashqadaryo",
+      "rooms": 1,
+      "price": 340000.0,
+      "desc": "zur",
+      "contact": "993190712",
+      "photos": "AgACAgIAAxkBAAMgaUobLgI2y-X4zbBce7yc4XowlsgAAhcMaxs6XFFKEXd4rX_5vjYBAAMCAAN4AAM2BA",
+      "approved": false,
+      "vip": false,
+      "views": 0,
+      "created": "2025-12-23T09:31:44.123088"
+    }
+  ],
+  "jobs": [],
+  "reminders": [],
+  "ids": {
+    "apt": 2,
+    "job": 1,
+    "rem": 1
+  }
+}
